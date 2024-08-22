@@ -356,7 +356,7 @@ header .intro-text {
 }
 .portfolio-item {
   margin: 1px -15px 0 -14px;
-  padding: 0;
+  padding: 10px;
 }
 .portfolio-item .hover-bg {
   overflow: hidden;
