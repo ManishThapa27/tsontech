@@ -4,18 +4,20 @@
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "mission": "At WeR Solutions, is to deliver exceptional software solutions that drive business growth and efficiency. We believe in the power of technology to solve complex problems and create opportunities for our clients. Our goal is to be a trusted partner in your digital transformation journey.",
+    "story":"Our journey began with a simple yet powerful vision to create software that empowers businesses to achieve their full potential. From our humble beginnings in India, we have grown into a dynamic company that serves clients worldwide. Our commitment to quality and innovation has been the driving force behind our success.",
+    "ourvalues": [
+      "Innovation: We are constantly exploring new technologies and methodologies to stay ahead of the curve.",
+      "Quality: We are committed to delivering high-quality products that exceed our clients’ expectations.",
+      "Integrity: We believe in building long-term relationships based on trust and transparency.",
+      "Collaboration: We work closely with our clients to understand their needs and deliver tailored solutions."
+      ],
+    "team":"Our team is our greatest asset. Comprising talented professionals from diverse backgrounds, we bring a wealth of experience and expertise to every project. We are united by our passion for technology and our commitment to excellence.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Expertise: With years of experience in the industry, we have the knowledge and skills to tackle any challenge.",
+      "Customer-Centric Approach: We put our clients at the heart of everything we do, ensuring their needs are met at every stage.",
+      "Innovative Solutions: We leverage the latest technologies to deliver innovative solutions that drive results.",
+      "Proven Track Record: Our portfolio of successful projects speaks for itself."
     ]
   },
   "Gallery": [
@@ -162,24 +164,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-group",
+      "title": "Professional Team",
+      "text": "An excellent software company has a team of highly experienced and skilled developers proficient."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Transparent Communication",
+      "text": "Clear and consistent communication keeps clients updated on progress and helps address any issues promptly."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-lightbulb-o",
+      "title": "Innovation & Adaptability",
+      "text": "Staying updated with the latest technologies and trends is essential for a software company to remain competitive and meet evolving client needs."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-comments-o",
+      "title": "27 x 7 Support",
+      "text": "Providing excellent customer support helps in maintaining long-term relationships with clients and addressing their concerns effectively."
     }
   ]
 }
