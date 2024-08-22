@@ -141,6 +141,11 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li>
+                    <a href={props.data ? props.data.linkedin : "/"}>
+                      <i className="fa fa-linkedin"></i>
+                    </a>
+                  </li>
+                  <li>
                     <a href={props.data ? props.data.twitter : "/"}>
                       <i className="fa fa-twitter"></i>
                     </a>
@@ -159,10 +164,11 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2024 Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
+            &copy; 2024 {" "}
+            <a href="#" rel="nofollow">
               WeR Solutions
             </a>
+            . All Rights Reserved.            
           </p>
         </div>
       </div>
