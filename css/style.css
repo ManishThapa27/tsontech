@@ -607,27 +607,12 @@ label {
 }
 
 @media only screen and (max-device-width: 479px) {
-  .intro{
-    background: url(../img/intro-bg-370.png) center center no-repeat;
+  .intro h1{
+    font-size: 45px;
     }  
 }
 @media only screen and (min-device-width: 480px) and (max-device-width: 767px) {
-  .intro{
-    background: url(../img/intro-bg-370.png) center center no-repeat;
-    }  
-}
-@media only screen and (min-device-width: 768px) and (max-device-width: 991px) {
-  .intro{
-    background: url(../img/intro-bg-960.jpg) center center no-repeat;
-    }  
-}
-@media only screen and (min-device-width: 992px) and (max-device-width: 1381px) {
-  .intro{
-    background: url(../img/intro-bg.jpg) center center no-repeat;
-    }
-}
-@media only screen and (min-device-width: 1382px) {
-  .intro{
-    background: url(../img/intro-bg.jpg) center center no-repeat;
+  .intro h1{
+    font-size: 65px;
     }
 }
