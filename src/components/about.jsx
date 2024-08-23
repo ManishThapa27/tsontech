@@ -25,8 +25,8 @@ export const About = (props) => {
               <b>Values</b><br></br>
               {
               props.data.ourvalues ? props.data.ourvalues.map((v,i)=>(
-                <><b>{v.split(":")[0]}</b>{v.split(":")[1]}<br></br></>
-              )) :""
+                <span key={`'v'- ${i}`}><b>{v.split(":")[0]}</b>{v.split(":")[1]}<br></br></span>
+              )) :<span></span>
               }
               </>
               
@@ -42,15 +42,6 @@ export const About = (props) => {
                       : "loading"}
                   </ul>
                 </div>
-                {/* <div className="col-lg-6 col-sm-6 col-xs-12">
-                  <ul>
-                    {props.data
-                      ? props.data.Why2.map((d, i) => (
-                          <li key={`${d}-${i}`}> {d}</li>
-                        ))
-                      : "loading"}
-                  </ul>
-                </div> */}
               </div>
             </div>
           </div>

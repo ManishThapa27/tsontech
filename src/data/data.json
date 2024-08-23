@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "All in one",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Innovation",
+    "paragraph": "With over 15 years of experience in software development, we bring a wealth of knowledge and expertise to help your business grow."
   },
   "About": {
     "mission": "At WeR Solutions, is to deliver exceptional software solutions that drive business growth and efficiency. We believe in the power of technology to solve complex problems and create opportunities for our clients. Our goal is to be a trusted partner in your digital transformation journey.",
@@ -69,34 +69,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Custom Software Development",
+      "text": "Creating tailored software solutions to meet specific business requirements."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-wordpress",
+      "name": "Web Development",
+      "text": "Building and maintaining websites and web applications."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-mobile",
+      "name": "Mobile App Development",
+      "text": "Developing applications for mobile devices, including iOS and Android platforms."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cloud",
+      "name": "Cloud Services",
+      "text": "Offering cloud-based solutions, including cloud migration, management, and optimization."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-laptop",
+      "name": "UI/UX Design",
+      "text": "Designing user interfaces and experiences that are intuitive and engaging."
+    },
+    {
+      "icon": "fa fa-wechat",
+      "name": "Maintenance and Support",
+      "text": "Offering ongoing support and maintenance for software applications."
     }
   ],
   "Testimonials": [
