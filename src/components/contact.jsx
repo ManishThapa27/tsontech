@@ -166,7 +166,7 @@ export const Contact = (props) => {
           <p>
             &copy; 2024 {" "}
             <a href="#" rel="nofollow">
-              WeR Solutions
+            Tson Technologies
             </a>
             . All Rights Reserved.            
           </p>
