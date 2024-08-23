@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wer-solutions/static/css/main.ae42ac5f.css",
-    "main.js": "/wer-solutions/static/js/main.1bffa298.js",
+    "main.js": "/wer-solutions/static/js/main.7b93a1a4.js",
     "index.html": "/wer-solutions/index.html",
     "main.ae42ac5f.css.map": "/wer-solutions/static/css/main.ae42ac5f.css.map",
-    "main.1bffa298.js.map": "/wer-solutions/static/js/main.1bffa298.js.map"
+    "main.7b93a1a4.js.map": "/wer-solutions/static/js/main.7b93a1a4.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.1bffa298.js"
+    "static/js/main.7b93a1a4.js"
   ]
 }
