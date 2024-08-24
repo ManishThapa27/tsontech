@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/wer-solutions/static/css/main.ae42ac5f.css",
-    "main.js": "/wer-solutions/static/js/main.87222107.js",
-    "index.html": "/wer-solutions/index.html",
-    "main.ae42ac5f.css.map": "/wer-solutions/static/css/main.ae42ac5f.css.map",
-    "main.87222107.js.map": "/wer-solutions/static/js/main.87222107.js.map"
+    "main.css": "/tsontech/static/css/main.ae42ac5f.css",
+    "main.js": "/tsontech/static/js/main.d4c89ed0.js",
+    "index.html": "/tsontech/index.html",
+    "main.ae42ac5f.css.map": "/tsontech/static/css/main.ae42ac5f.css.map",
+    "main.d4c89ed0.js.map": "/tsontech/static/js/main.d4c89ed0.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.87222107.js"
+    "static/js/main.d4c89ed0.js"
   ]
 }
