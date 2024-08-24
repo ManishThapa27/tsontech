@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tsontech/static/css/main.ae42ac5f.css",
-    "main.js": "/tsontech/static/js/main.d4c89ed0.js",
-    "index.html": "/tsontech/index.html",
-    "main.ae42ac5f.css.map": "/tsontech/static/css/main.ae42ac5f.css.map",
-    "main.d4c89ed0.js.map": "/tsontech/static/js/main.d4c89ed0.js.map"
+    "main.css": "./static/css/main.ae42ac5f.css",
+    "main.js": "./static/js/main.d4c89ed0.js",
+    "index.html": "./index.html",
+    "main.ae42ac5f.css.map": "./static/css/main.ae42ac5f.css.map",
+    "main.d4c89ed0.js.map": "./static/js/main.d4c89ed0.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
