@@ -102,33 +102,33 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"The experience has been fantastic. They delivered the project on time and provided excellent support throughout the process. Highly recommended!\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"The team brought innovative ideas to the table that truly transformed our business operations. Great company to work with!\"",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Working with this company has been a pleasure. They are professional, reliable, and always responsive to our needs. The software they developed for us is robust and scalable, exactly what we needed to grow our business.\"",
+      "name": "Alex Morgan"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"This company has a top-notch development team that understood our requirements perfectly. They provided regular updates and were always open to feedback. The final product is flawless and has helped us streamline our processes.\"",
+      "name": "Sarah Patel"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"From the initial consultation to the final delivery, the communication was excellent. The team kept us informed at every step and executed our project with precision. The software is performing brilliantly!\"",
+      "name": "David Williams"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"We had high expectations for our project, and this company exceeded them. Their expertise, dedication, and customer-focused approach made the entire process smooth and stress-free. The end result is a software solution that truly meets our needs.\"",
+      "name": "Emily Chen"
     }
   ],
   "Team": [
@@ -138,17 +138,17 @@
       "job": "Founder and CEO"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/jayant.jpg",
       "name": "Jayant",
       "job": "Co-Founder and CFO"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/praful.jpg",
       "name": "Praful",
       "job": "Head of Digital Marketing"
     },
     {
-      "img": "img/team/04.jpg",
+      "img": "img/team/payal.jpg",
       "name": "Payal",
       "job": "Managing Director"
     }
