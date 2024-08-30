@@ -169,6 +169,7 @@ export const Contact = (props) => {
             Tson Technologies
             </a>
             . All Rights Reserved.            
+            &nbsp;<a target="_blank" href="https://www.google.com/adsense/new/u/0/pub-4609212129275845/privacymessaging">Privacy Policy</a>
           </p>
         </div>
       </div>
