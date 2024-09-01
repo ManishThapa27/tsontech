@@ -123,6 +123,14 @@ export const Contact = (props) => {
               </p>
             </div>
             <div className="contact-item">
+              <p>              
+                <span>
+                  <i className="fa fa-whatsapp"></i> WhatsApp
+                </span>{" "}
+                {props.data ? <a style={{color:'#fff'}} href={props.data.whatsapp} rel="noreferrer">+91 9625908218</a> : "loading"}
+              </p>
+            </div>
+            <div className="contact-item">
               <p>
                 <span>
                   <i className="fa fa-envelope-o"></i> Email
@@ -153,11 +161,6 @@ export const Contact = (props) => {
                   <li>
                     <a target="_blank" rel="noreferrer" href={props.data ? props.data.youtube : "/"}>
                       <i className="fa fa-youtube"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a target="_blank" rel="noreferrer" href={props.data ? props.data.whatsapp : "/"}>
-                      <i className="fa fa-whatsapp"></i>
                     </a>
                   </li>
                 </ul>
