@@ -127,7 +127,7 @@ export const Contact = (props) => {
                 <span>
                   <i className="fa fa-whatsapp"></i> WhatsApp
                 </span>{" "}
-                {props.data ? <a style={{color:'#fff'}} href={props.data.whatsapp} rel="noreferrer">+91 9625908218</a> : "loading"}
+                {props.data ? <a style={{color:'rgba(255, 255, 255, 0.75)'}} href={props.data.whatsapp} rel="noreferrer">+91 9625908218</a> : "loading"}
               </p>
             </div>
             <div className="contact-item">
